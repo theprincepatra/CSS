@@ -1,0 +1,11 @@
+/* This is a comment in CSS */
+
+.title {
+  color: navy;
+  font-size: 2em;
+}
+
+#intro {
+  color: darkgreen;
+  font-style: italic;
+}
